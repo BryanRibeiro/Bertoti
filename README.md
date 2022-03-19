@@ -29,9 +29,9 @@ Professor GIULIANO ARAUJO </h5>
 
 O objetivo desta aula foi executar os dados extraídos do link abaixo no Eclipse, fizemos essa aula presencialmente na Fatec.
 
-#### 🔗 Link do Repositório do Giuliano - [clique aqui](https://github.com/giulianobertoti/projetointegrador)
-
 #### 🔗 Link da Branch - [LAB 3](https://github.com/BryanRibeiro/Bertoti/tree/master)
+
+#### 🔗 Link do Repositório do Giuliano - [clique aqui](https://github.com/giulianobertoti/projetointegrador)
 
 
 
