@@ -1,4 +1,4 @@
-<h5 align="center"> <img src = "https://github.com/Time-1-ADS/ProjetoGSW/blob/sprints/Imagens%20Geral/Fatec_logo.png" width="50" height="50" /> Laboratório de Desenvolvimento em Banco de Dados III
+<h5 align="center"> <img src = "https://github.com/Time-1-ADS/ProjetoGSW/blob/sprints/Imagens%20Geral/Fatec_logo.png" width="50" height="50" /> Laboratórios Fatec SJC
  
 <br>
   
