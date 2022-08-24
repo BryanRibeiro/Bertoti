@@ -8,7 +8,7 @@
 
 O objetivo desta aula foi executar os dados extraídos do link abaixo no Eclipse, fizemos essa aula presencialmente na Fatec.
 
-#### 🔗 Link dp Artigo - [Clique Aqui]()
+#### 🔗 Link do Artigo - [Clique Aqui]()
 
 
 
