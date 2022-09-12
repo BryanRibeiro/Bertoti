@@ -4,11 +4,29 @@
 
 <hr>
 
+#### 🔗 Link do Artigo utilizado: https://sol.sbc.org.br/index.php/wblockchain/article/view/21471
+
+<br>
+
 ## :pencil2: Perguntas
 
-O objetivo desta aula foi executar os dados extraídos do link abaixo no Eclipse, fizemos essa aula presencialmente na Fatec.
+### Qual o problema?
 
-#### 🔗 Link do Artigo - [Clique Aqui]()
+R:
+
+### Qual a motivação?
+
+R:
+
+### Qual a metodologia?
+
+R:
+
+### Qual o resultado?
+
+R:
+
+
 
 
 
