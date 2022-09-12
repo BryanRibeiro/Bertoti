@@ -6,9 +6,7 @@
 
 #### 🔗 Link do Artigo utilizado: https://sol.sbc.org.br/index.php/wblockchain/article/view/21471
 
-<br>
-
-## :pencil2: Perguntas
+## :pencil2: Perguntas e Respostas
 
 ### Qual o problema?
 
