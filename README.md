@@ -22,13 +22,11 @@ Professor GIULIANO ARAUJO </h5>
 
 <br>
 
-## :pencil2: Eclipse
+## :pencil2: Projetos Aulas Giuliano
 
-O objetivo desta aula foi executar os dados extraídos do link abaixo no Eclipse, fizemos essa aula presencialmente na Fatec.
+#### 🔗 [Metologia de Pesquisa Científica](https://github.com/BryanRibeiro/Bertoti/tree/main/Metodologia_Pesquisa_Cient%C3%ADfica)
 
-#### 🔗 Link da Branch - [LAB 3](https://github.com/BryanRibeiro/Bertoti/tree/master)
-
-#### 🔗 Link do Repositório do Giuliano - [clique aqui](https://github.com/giulianobertoti/projetointegrador)
+#### 🔗 [Padrões de Projeto](https://github.com/BryanRibeiro/Bertoti/tree/main/Padr%C3%B5es_de_Projetos)
 
 
 
