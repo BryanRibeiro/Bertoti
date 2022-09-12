@@ -9,9 +9,9 @@ Professor GIULIANO ARAUJO </h5>
 
 ## :pencil2: Aprendizados - Aulas Giuliano
 
-#### 🔗 [Metologia de Pesquisa Científica](https://github.com/BryanRibeiro/Bertoti/tree/main/Metodologia_Pesquisa_Cient%C3%ADfica)
+#### 🔗 [Metologia de Pesquisa Científica](https://github.com/BryanRibeiro/Bertoti/tree/main/Metodologia%20Pesquisa%20Cient%C3%ADfica)
 
-#### 🔗 [Padrões de Projeto](https://github.com/BryanRibeiro/Bertoti/tree/main/Padr%C3%B5es_de_Projetos)
+#### 🔗 [Padrões de Projeto](https://github.com/BryanRibeiro/Bertoti/tree/main/Padr%C3%B5es%20de%20Projetos/DesignPatterns)
 
 
 
