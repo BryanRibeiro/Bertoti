@@ -1,8 +1,10 @@
-#### Fulano de Tal
+#### TG Modelo - Modalidade 1
 
-# Olá, sou Fulano
+# Bryan Romero Ribeiro
 
-Estudante de computação, escritor online e estas são minhas experiências na Fatec SJC.
+Seja bem-vindo! Sou o Bryan Ribeiro, estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal e estas são minhas experiências.
+
+Tenho 20 anos e trabalho como Estagiário na Cebrace.
 
 # Meus Projetos
 
