@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Seja bem-vindo! Sou o Bryan Ribeiro, estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal e estas são minhas experiências.
+Seja bem-vindo! Sou o Bryan Ribeiro, estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal e estas são minhas experiências. Jovem protagonista, com muita vontade de aprender e contribuir com meu potencial para as empresas, orientado por valores, gosto de fazer acontecer, resolver problemas e trazer mudanças significativas para o mundo.
 
 Tenho 20 anos e trabalho como Estagiário na Cebrace em Jacareí.
 
@@ -12,7 +12,18 @@ Tenho 20 anos e trabalho como Estagiário na Cebrace em Jacareí.
 
 ## Principais Conhecimentos
 
-(texto)
+ - [x]  Python
+ - [x]  Java
+ - [x]  HTML
+ - [x]  PHP
+ - [x]  CSS
+ - [x]  PostgreSQL
+ - [x]  MySQL
+ - [x]  Angular
+
+#### Projetos Integradores durante a graduação 
+Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de API "Aprendizagem por Processos Integrados". Um projeto integrador tem o objetivo de solucionar um problema do mundo real, utilizando os conhecimentos adquiridos durante a graduação.<br/>
+Abaixo todos estes projetos serão descritos, detalhando o problema, solução proposta, e os aprendizamos extraídos de cada um deles. 
 
 # Projeto 3: 1º semestre de 2022
 
