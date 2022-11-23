@@ -6,7 +6,11 @@
 
 Seja bem-vindo! Sou o Bryan Ribeiro, estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal e estas são minhas experiências.
 
-Tenho 20 anos e trabalho como Estagiário na Cebrace.
+Tenho 20 anos e trabalho como Estagiário na Cebrace em Jacareí.
+
+<img src="https://avatars.githubusercontent.com/u/70216549?v=4" height="300" width="250"/>
+
+##### *Figura 00. Eu*
 
 ## Principais Conhecimentos
 
