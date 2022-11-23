@@ -84,7 +84,11 @@ No front-end foi utilizado o Angular (como requisito da Fatec) que é uma plataf
 
 
 #### Hard Skills Efetivamente Desenvolvidas
-Python, CSS, Html
+Fui responsável pelo desenvolvimento backend da aplicação. Por ser o terceiro semestre do curso já havia construído uma base de conhecimentos necessários para desenvolver o projeto, embora o uso de tecnologias diferentes das apresentadas anteriormente tenha dificultado o processo de desenvolvimento.
+  
+Sendo responsável pelo desenvolvimento do back-end do sistema, implementei serviços de cadastro, leitura e remoção de dados coletados pela aplicação. Também prestei apoio na criação das interfaces gráficas com o Java e no versionamento do projeto com a tecnologia Git.
+  
+Contudo, vale acrescentar que por ser o primeiro contato com uma empresa terceira no curso de Banco de Dados, o desafio foi diferente do projeto anterior pois deveríamos atender os requisitos necessários e ter uma comunicação ativa com o cliente a fim de produzir entregas de valores a cada etapa do processo, por isso ajudei a gerenciar a equipe utilizando a metodologia ágil Scrum.
 
 #### Soft Skills Efetivamente Desenvolvidas
 Autonomia<br>
