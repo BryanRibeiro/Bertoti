@@ -82,17 +82,23 @@ No front-end foi utilizado o Angular (como requisito da Fatec) que é uma plataf
 
 ## Contribuições Pessoais
 
-
-#### Hard Skills Efetivamente Desenvolvidas
 Fui responsável pelo desenvolvimento backend da aplicação. Por ser o terceiro semestre do curso já havia construído uma base de conhecimentos necessários para desenvolver o projeto, embora o uso de tecnologias diferentes das apresentadas anteriormente tenha dificultado o processo de desenvolvimento.
   
 Sendo responsável pelo desenvolvimento do back-end do sistema, implementei serviços de cadastro, leitura e remoção de dados coletados pela aplicação. Também prestei apoio na criação das interfaces gráficas com o Java e no versionamento do projeto com a tecnologia Git.
   
 Contudo, vale acrescentar que por ser o primeiro contato com uma empresa terceira no curso de Banco de Dados, o desafio foi diferente do projeto anterior pois deveríamos atender os requisitos necessários e ter uma comunicação ativa com o cliente a fim de produzir entregas de valores a cada etapa do processo, por isso ajudei a gerenciar a equipe utilizando a metodologia ágil Scrum.
 
+#### Hard Skills Efetivamente Desenvolvidas
+
+- **Desenvolvimento com integração a um banco de dados relacional**: Sei fazer com autonomia
+- **Desenvolvimento de aplicações back-end em Java**: Sei fazer com ajuda.
+- **Versionamento de repositório git**: Sei fazer com autonomia.
+
 #### Soft Skills Efetivamente Desenvolvidas
-Autonomia<br>
-Ainda assim, existem dúvidas a respeito de como a alta necessidade de integridade representa uma abertura para a melhoria dos equipamentos pré-especificados.
+
+- **Comunicação**: uma habilidade que está em constante desenvolvimento, e não foi diferente nesta etapa onde foi necessário apresentar o projeto para o cliente e professores avaliadores. Além de ser necessário para manter um esquema organizacional eficiente, ativo e funcional entre os integrantes da equipe. 
+- **Controle de Tempo**: por ser o primeiro projeto em parceria com um cliente real no curso de Banco de Dados, uma empresa parceira da universidade, com prazos mais curtos para um desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
+- **Tomadas de Decisões**: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o desenvolvimento do projeto.
 
 ## Contatos
 * [GitHub](https://github.com/BryanRibeiro)
