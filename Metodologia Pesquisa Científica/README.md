@@ -88,6 +88,31 @@ Sendo responsável pelo desenvolvimento do back-end do sistema, implementei serv
   
 Contudo, vale acrescentar que por ser o primeiro contato com uma empresa terceira no curso de Banco de Dados, o desafio foi diferente do projeto anterior pois deveríamos atender os requisitos necessários e ter uma comunicação ativa com o cliente a fim de produzir entregas de valores a cada etapa do processo, por isso ajudei a gerenciar a equipe utilizando a metodologia ágil Scrum.
 
+#### Aprendizados Efetivos
+
+A MidAll foi primeiro sistema web com o qual trabalhei. Em seu desenvolvimento, obtive meu primeiro contato com conceitos bases para todo profissional desenvolvedor de software. Os aprendizados inéditos foram diversos, que necessitam ser citados aqui:
+
+- O que é o protocolo HTTP;
+- O que é uma requisição GET, POST, PUT e quais são as diferentes destes verbos;
+- Como funciona a comunicação de uma página de um usuário com a lógica interna de um sistema;
+- O que é um JSON e como ele funciona na comunicação de sistemas web;
+- O que é um framework web e qual sua utilidade na construção de sistemas;
+
+A integração do projeto com as matérias do semestre se deu em diversas frentes. A mais importante delas foi na disciplina de Engenharia de Software. Durante o semestre de desenvolvimento deste trabalho, iniciamos o aprendizado sobre diversos padrões de projeto nesta disciplina, pela primeira vez. Com isso, pela primeira vez nos preocupamos em separar nosso programa que se tornaria o produto em camadas, seguir padrões de arquitetura, torná-lo componentizável e seguindo modos de construção comuns aos utilizados no mercado e comunidade. Foi o passo inicial de estudo sobre tais competências tão importantes para qualquer desenvolvedor de software.
+
+Além destes itens importantes que foram citados acima, outros aprendizados importantes precisam ser mencionados:
+
+Durante o desenvolvimento do projeto, a performance do sistema foi uma questão central em seu desenvolvimento.
+Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular diversos fatores de todos os seus registros. Com isso, precisávamos pensar em formas mais eficientes em processamento para garantir uma resposta rápida e confiável ao nosso usuário final. A evolução nos algoritmos de análise de dados com o passar do projeto é algo que foi de grande valia para a nossa formação como profissionais desenvolvedores.
+
+No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte forma:
+
+- Criação de uma API HTTP que gerencia requests e respostas para um cliente: sei fazer com autonomia
+
+- Importação de dados de diferentes fontes e análises gerais sobre o conteúdo importado: sei fazer com ajuda
+
+- Definir a arquitetura de um sistema de acordo com seus requisitos funcionais e não funcionais: sei fazer com ajuda
+
 #### Hard Skills Efetivamente Desenvolvidas
 
 - **Desenvolvimento com integração a um banco de dados relacional**: Sei fazer com autonomia
