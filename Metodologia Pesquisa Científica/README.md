@@ -82,7 +82,7 @@ No front-end foi utilizado o Angular (como requisito da Fatec) que é uma plataf
 
 ## Contribuições Pessoais
 
-Fui responsável pelo desenvolvimento backend da aplicação. Por ser o terceiro semestre do curso já havia construído uma base de conhecimentos necessários para desenvolver o projeto, embora o uso de tecnologias diferentes das apresentadas anteriormente tenha dificultado o processo de desenvolvimento.
+Fui responsável por ajudar no desenvolvimento backend da aplicação. Por ser o terceiro semestre do curso, já havia construído uma base de conhecimentos necessários para desenvolver o projeto, embora o uso de tecnologias diferentes das apresentadas anteriormente tenha dificultado o processo de desenvolvimento.
   
 Sendo responsável pelo desenvolvimento do back-end do sistema, implementei serviços de cadastro, leitura e remoção de dados coletados pela aplicação. Também prestei apoio na criação das interfaces gráficas com o Java e no versionamento do projeto com a tecnologia Git.
   
