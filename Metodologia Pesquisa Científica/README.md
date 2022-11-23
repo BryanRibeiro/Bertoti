@@ -51,7 +51,7 @@ Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
 
 ### Tecnologias adotadas na solução
 
-* **Banco de Dados:** Microsoft SQL
+* **Banco de Dados:** PostgreSQL
 * **Back-end:** Java e Spring Boot
 * **Front-end:** Angular, CSS, Bootstrap
 * **Ferramentas:** IntelliJ IDEA, Visual Studio Code, GitHub e Figma
@@ -69,7 +69,15 @@ Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
 "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
 </h4>
 
-No o front-end foi utilizado o Angular (como requisito da Fatec) que é uma plataforma baseada em Typescript, para criação das telas de interação com o cliente, e para realizar as requisições para a API que foi desenvolvida. O Java com o framework Spring foi utilizado para criação da API de backend, com a criação das rotas HTTP, conexão com o banco de dados, tratamento de erros e aplicação das regras de negócio. Como banco de dados, foi utilizado o H2 que é um sistema de gerenciamento de banco de dados relacional em memória.
+#### Java
+  Java é uma linguagem de programação de paradigma orientado a objetos desenvolvida na década de 90. Uma das mais consolidadas no meio da programação, é uma linguagem de propósito geral com a intenção de ser capaz de rodar em qualquer plataforma que suporte a tecnologia, utilizando o JVM (Java Virtual Machine) como compilador da linguagem.
+  Neste projeto utilizamos o Java para desenvolver o sistema, implementando a orientação a objetos e aproveitando a biblioteca JavaSQL pra fazer a conexão com o banco de dados da aplicação.
+  
+#### PostgreSQL
+  O banco de dados do sistema proposto foi construido com o PostgreSQL, um sistema gerenciador de banco de dados objeto relacional que usa e estende a linguagem SQL(Strucutred Query Language), combinando diversas características para guardar e escalar dados com segurança.
+
+#### Front-end
+No front-end foi utilizado o Angular (como requisito da Fatec) que é uma plataforma baseada em Typescript, para criação das telas de interação com o cliente, e para realizar as requisições para a API que foi desenvolvida. O Java com o framework Spring foi utilizado para criação da API de backend, com a criação das rotas HTTP, conexão com o banco de dados, tratamento de erros e aplicação das regras de negócio. Como banco de dados, foi utilizado o H2 que é um sistema de gerenciamento de banco de dados relacional em memória.
 
 
 ## Contribuições Pessoais
