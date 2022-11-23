@@ -14,15 +14,37 @@ Tenho 20 anos e trabalho como Estagiário na Cebrace.
 
 # Meus Projetos
 
-#### Em 2022-1
-Trabalhei no projeto da API com o Parceiro Acadêmico ACME.<br> Percebemos, cada vez mais, que o consenso sobre a utilização da orientação a objeto pode nos levar a considerar a reestruturação das novas tendencias em TI. Do mesmo modo, o novo modelo computacional aqui preconizado garante a integridade dos dados envolvidos das janelas de tempo disponíveis. A implantação, na prática, prova que a adoção de políticas de segurança da informação assume importantes níveis de uptime dos equipamentos pré-especificados. Não obstante, a constante divulgação das informações cumpre um papel essencial na implantação da terceirização dos serviços. Ainda assim, existem dúvidas a respeito de como a consolidação das infraestruturas inviabiliza a implantação do levantamento das variáveis envolvidas. <br>
-[link para o GIT](https://www.google.com)
+### Parceiro Acadêmico
+MidAll <br/>
+![image](https://camo.githubusercontent.com/b0fa931b76def22c567acfdba8089ec65869a80bb99b201408c4efb3c486849c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3435366439355f64386266646362343934326234366336393935306539363136373432646634657e6d76322e706e672f76312f66696c6c2f775f3331322c685f3234382c616c5f632c715f38352c75736d5f302e36365f312e30305f302e30312c656e635f6175746f2f4c6f676f2532304d6964416c6c2e706e67)
+##### *Figura 01. Logo MidAll Fonte((www.midall.com.br)*
 
-#### Tecnologias Utilizadas
-Analytics, Intelligent Things, Plataforma de Inetração
+### Visão do Projeto
+
+A empresa parceira MidAll tem um problema para criação de promoções em um Ecommerce. Precisamos de uma solução inteligente
+onde, as mecânicas das promoções sejam feitas de forma flexível e de rápida atualização no sistema.
+
+**O problema é:** O cliente tem um e-commerce, porém necessita de um sistema de compras inteligente que gere promoções com base nas vendas;
+
+**Que afeta** as compras feitas pelos clientes no site;
+
+**O impacto disto é** gerar mais vendas e lucros para a empresa, para que o cliente final fique satisfeito com suas promoções;
+
+**A solução seria** O desenvolvimento de uma aplicação web que irá automatizar este processo no ato da compra, gerando promoções específicas.
+
+Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
+
+### Tecnologias adotadas na solução
+
+* **Banco de Dados:** Microsoft SQL
+* **Back-end:** Java e Spring Boot
+* **Front-end:** Angular, CSS, Bootstrap
+* **Ferramentas:** IntelliJ IDEA, Visual Studio Code, GitHub e Figma
+
+
 
 ## Contribuições Pessoais
-O que temos que ter sempre em mente é que a alta necessidade de integridade otimiza o uso dos processadores dos requisitos mínimos de hardware exigidos. Pensando mais a longo prazo, o desenvolvimento contínuo de distintas formas de codificação conduz a um melhor balancemanto de carga da garantia da disponibilidade. A implantação, na prática, prova que a consolidação das infraestruturas apresenta tendências no sentido de aprovar a nova topologia das ferramentas OpenSource. Enfatiza-se que o crescente aumento da densidade de bytes das mídias deve passar por alterações no escopo dos paralelismos em potencial. 
+
 
 #### Hard Skills Efetivamente Desenvolvidas
 Python, CSS, Html
