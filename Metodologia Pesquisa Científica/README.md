@@ -17,14 +17,14 @@ Tenho 20 anos e trabalho como Estagiário na Cebrace.
 ### Parceiro Acadêmico
 MidAll <br/>
 ![image](https://camo.githubusercontent.com/b0fa931b76def22c567acfdba8089ec65869a80bb99b201408c4efb3c486849c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3435366439355f64386266646362343934326234366336393935306539363136373432646634657e6d76322e706e672f76312f66696c6c2f775f3331322c685f3234382c616c5f632c715f38352c75736d5f302e36365f312e30305f302e30312c656e635f6175746f2f4c6f676f2532304d6964416c6c2e706e67)
-##### *Figura 01. Logo MidAll Fonte((www.midall.com.br)*
+##### *Figura 01. Logo MidAll Fonte(www.midall.com.br)*
 
 A empresa MidAll situada no Parque Tecnológico de São José dos Campos, propôs o seguinte desafio baseado na metodologia ágil Scrum.
 
 ### Visão do Projeto
 
 A empresa parceira MidAll tem um problema para criação de promoções em um Ecommerce. Precisamos de uma solução inteligente
-onde, as mecânicas das promoções sejam feitas de forma flexível e de rápida atualização no sistema.
+onde, as mecânicas das promoções sejam feitas de forma flexível e de rápida atualização no sistema. A ideia foi criar um mini motor de regras com uma interface onde as regras das promoções possam ser cadastradas e aplicadas no momento que os itens forem para o carrinho de compras.
 
 **O problema é:** O cliente tem um e-commerce, porém necessita de um sistema de compras inteligente que gere promoções com base nas vendas;
 
