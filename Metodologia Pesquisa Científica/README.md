@@ -126,7 +126,7 @@ Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-m
 
 <br>
 
-Criação das telas de cadastro de produtos; </br>
+Implementação das telas de cadastro de produtos; </br>
    Desenvolvimento do formulário de cadastro de produtos, criação da classe de services para envio da requisição POST com objeto do tipo produto.
    
    <details>
@@ -165,7 +165,7 @@ Criação das telas de cadastro de produtos; </br>
    
 <br>
    
-Criação da tela de carrinho de compras;</br>
+Implementação da interface do carrinho de compras;</br>
    Desenvolvimento de uma tela para mostrar todos os produtos selecionados pelo usuário no sistema
    <details>
       <summary>Código html para exibição dos produtos </summary>
