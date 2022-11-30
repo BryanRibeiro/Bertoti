@@ -82,9 +82,124 @@ No front-end foi utilizado o Angular (como requisito da Fatec) que é uma plataf
 
 ## Contribuições Pessoais
 
-Fui responsável por ajudar no desenvolvimento backend da aplicação. Por ser o terceiro semestre do curso, já havia construído uma base de conhecimentos necessários para desenvolver o projeto, embora o uso de tecnologias diferentes das apresentadas anteriormente tenha dificultado o processo de desenvolvimento.
+Fui responsável por ajudar no desenvolvimento front-end da aplicação. Por ser o terceiro semestre do curso, já havia construído uma base de conhecimentos necessários para desenvolver o projeto, embora o uso de tecnologias diferentes das apresentadas anteriormente tenha dificultado o processo de desenvolvimento.
   
-Sendo responsável pelo desenvolvimento do back-end do sistema, implementei serviços de cadastro, leitura e remoção de dados coletados pela aplicação. Também prestei apoio na criação das interfaces gráficas com o Java e no versionamento do projeto com a tecnologia Git.
+Sendo responsável pelo desenvolvimento do front-end do sistema, implementei serviços de cadastro, leitura e remoção de dados coletados pela aplicação. Também prestei apoio na criação das interfaces gráficas com o Java e no versionamento do projeto com a tecnologia Git.
+  
+
+</details>   
+
+- Participei de forma efetiva da integração do Front-End com Back-End, criando alguns métodos e realizando testes para validação das requisições.
+
+ <details open><summary>Informações código Front-End</summary>
+  
+  
+   1. Trecho do código responsável de receber o retorno do back-end, da explicação citada acima.
+   
+     
+   ```js
+   
+        this.total = this.noDiscount += (element.price  * element.quantidade);
+
+        this.service.getDiscount(this.id, this.quantidade, this.total, this.categoria).subscribe(
+            response =>
+            { const product : Product = new Product();
+              this.discount = response;
+              this.product.discount = this.discount
+              this.finalPrice = this.finalPrice += (element.price * element.quantidade)-(this.discount)
+              console.log("teste", this.categoria)
+            errorResponse => console.log(errorResponse)
+        })
+    });
+         
+         ...
+         
+         return new ResponseEntity<>(desconto, HttpStatus.OK);     
+   ```
+   - Esse método é responsável por passar os parâmetros para o back-end, processar a informação e direcionar o retorno para a camada de visualização do usuário,
+  sendo um trecho importante pois enviar dados, processa o retorno e já devolve os resultados para usuário.
+
+
+Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes da implementação do método responsável por enviar a requisição para back-end. 
+
+</details>   
+
+<br>
+
+* Criação das telas de cadastro de produtos; </br>
+   Desenvolvimento do formulário de cadastro de produtos, criação da classe de services para envio da requisição POST com objeto do tipo produto.
+   
+   <details>
+      <summary>Código da função na classe service para criação e atualização de produtos </summary>
+      
+          onSubmit(){
+
+           if(this.id){
+             this.service.update(this.id, this.product)
+             .subscribe( res => {
+               this.success = true;
+               this.errors = null;
+             }
+             )
+           }
+           else{
+
+             this.service
+               .insert(this.product)
+               .subscribe( res =>{
+                 this.success = true;
+                 this.errors = null;
+
+               }, errorRes =>{
+                 this.success = false;
+                 this.errors = errorRes.error.errors
+
+               }
+
+               )
+           }
+
+
+         }
+   </details>
+   
+<br>
+   
+* Criação da tela de carrinho de compras;</br>
+   Desenvolvimento de uma tela para mostrar todos os produtos selecionados pelo usuário no sistema
+   <details>
+      <summary>Código html para exibição dos produtos </summary>
+      
+          <table class="table table-condensed table-hover">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Discount</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let p of products">
+                        <td>{{ p.name }}</td>
+                        <td>{{ p.price }}</td>
+                        <td>{{ p.quantidade}}</td>
+                        <td>-{{ p.discount }}</td>
+
+                        <td>
+                            <button  class="btn btn-warning" (click)="deleteProduct(p)">
+                                <i class="fa fa-trash"></i>
+                                Delete
+                            </button>
+                        </td>
+
+
+                    </tr>
+                </tbody>
+                
+            </table>
+   </details>
   
 Contudo, vale acrescentar que por ser o primeiro contato com uma empresa terceira no curso de Banco de Dados, o desafio foi diferente do projeto anterior pois deveríamos atender os requisitos necessários e ter uma comunicação ativa com o cliente a fim de produzir entregas de valores a cada etapa do processo, por isso ajudei a gerenciar a equipe utilizando a metodologia ágil Scrum.
 
